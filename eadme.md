@@ -1,4 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336CCF7&lines=Я+хочу+представить+вашему+вниманию+проект+"БОТ-БОТСКИЙ"!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336CCF7&lines=Я+хочу+представить+вашему+вниманию)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336CCF7&lines=проект+"БОТ+БОТСКИЙ"!)
 
 **Он умеет делать практически все:**
 
@@ -6,7 +7,7 @@
 
 **Кстати о приветствии, вот код)**
 
-
+![img_4.png](img_4.png)
 
 **Рассмотрим его поподробнее:**
 
